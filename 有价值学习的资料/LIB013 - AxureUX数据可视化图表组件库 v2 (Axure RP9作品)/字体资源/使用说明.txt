@@ -1,0 +1,9 @@
+1、首次使用作品中的相关原型素材文件时，请先安装【数字字体】和【图标字体】中的相关文字文件，依次双击对应的.ttf和.otf格式的字体文件即可完成安装。
+
+3、在Axure的发布设置中设置下面两个对应的WEB字体CSS链接，可以解决在未安装字体的设备上演示时，数字及图标能够正常的显示。
+
+FontAwesome v5 Pro字体图标CSS链接：
+https://demo.axureux.com/fontawesome/5.7.2/pro/css/all.min.css
+
+AxureUX数字字体CSS链接：
+https://demo.axureux.com/numericfont/stylesheet.css
